@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing computer programms.  
 - 🌱 I’m currently learning C and Linux basics.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: albert.kolm@aon.at
 
 <!---
 schurippak/schurippak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
